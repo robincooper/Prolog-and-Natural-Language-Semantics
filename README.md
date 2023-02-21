@@ -1,2 +1,2 @@
 # Prolog and Natural Language Semantics
- Used for teaching computational semantics in 80's and 90's
+ Used for teaching computational semantics in 80's and 90's in the Department of AI, Ediburgh University.  The course notes are in the file `Prolog_and_Natural_Language_Semantics.pdf`.  Note that Chap. 6 of these notes refers to a directory `chat` which has not been included in this repository as it is an independent system written by Fernando Pereira and David Warren which the code presented here could interface with.
